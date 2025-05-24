@@ -36,7 +36,7 @@ GoldenFrames is designed with privacy in mind:
 
 ## Demo
 
-![GoldenFrames Demo](demo-screenshot.png)
+Watch the demo: [GoldenFrames Demo](https://www.loom.com/share/01638b5e669c436b97161a53ed33899c?sid=a64297f5-9db8-4619-a512-016c9a39a9a9)
 
 ## Getting Started
 
@@ -88,4 +88,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - TensorFlow.js team for making AI accessible in the browser
 - React and Tailwind CSS communities
-```
