@@ -88,3 +88,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - TensorFlow.js team for making AI accessible in the browser
 - React and Tailwind CSS communities
+
+## Author
+Made with ❤️ by Harsha S
+- Discord: **sharsha315**
+- X (Twitter): [**@sharsha315**](https://www.x.com/sharsha315)
