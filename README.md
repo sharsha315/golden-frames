@@ -34,10 +34,6 @@ GoldenFrames is designed with privacy in mind:
 - No data is sent to any server
 - Works offline after initial load
 
-## Demo
-
-Watch the demo: [GoldenFrames Demo](https://www.loom.com/share/01638b5e669c436b97161a53ed33899c?sid=a64297f5-9db8-4619-a512-016c9a39a9a9)
-
 ## Getting Started
 
 ### Prerequisites
